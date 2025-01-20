@@ -473,7 +473,7 @@ Description: Reloads the current page.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/selenium-basic-automation.git
+   git clone https://github.com/your-username/Selenium_Project.git
    cd selenium-basic-automation
    ```
 2. Open the project in your preferred IDE.
